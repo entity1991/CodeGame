@@ -1,0 +1,5 @@
+= link_to 'Create a new game', new_game_path
+
+- @games.each_with_index do |game, i|
+  = i + 1
+  = link_to game.title, game_path(game)

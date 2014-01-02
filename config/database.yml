@@ -1,0 +1,6 @@
+development:
+  adapter: mysql2
+  database: code_games
+  password: "1111"
+  pool: 5
+  timeout: 5000

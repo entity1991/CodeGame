@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="3489222473">
+    <data-source source="LOCAL" name="Rails CodeGames: development" uuid="2a80c33f-19e6-4c39-b8ea-148297dbf181">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/code_games</jdbc-url>
+      <user-password>df9bdf9bdf9bdf9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
